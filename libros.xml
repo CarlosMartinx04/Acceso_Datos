@@ -1,0 +1,10 @@
+<libros>
+    <libro id='1'>
+        <titulo>Aprendiendo Java</titulo>
+        <autor>Juan Pérez</autor>
+    </libro>
+    <libro id='2'>
+        <titulo>XML para Principiantes</titulo>
+        <autor>Ana Gómez</autor>
+    </libro>
+</libros>

@@ -1,0 +1,12 @@
+<catalogo>
+    <producto codigo="A100">
+        <nombre>Portátil</nombre>
+        <precio>800.00</precio>
+        <disponibilidad>En stock</disponibilidad>
+    </producto>
+    <producto codigo="A101">
+        <nombre>Monitor</nombre>
+        <precio>200.00</precio>
+        <disponibilidad>Agotado</disponibilidad>
+    </producto>
+</catalogo>
